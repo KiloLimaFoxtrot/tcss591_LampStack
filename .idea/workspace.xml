@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2b3fc5e-f038-4c16-93a4-ae1fc90a51ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1nxjYuubFpe24amcqqoB2dEfQ2L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="flora01@uw.edu" />
+    <property name="ACTIVE_CLOUD_PROJECT_ID" value="rapid-airship-303704" />
+    <property name="ACTIVE_CLOUD_PROJECT_NAME" value="My First Project" />
+    <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="114953637436" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210203_0010" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26582277" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsDialog.application.dockerMachine" />
+  </component>
+  <component name="RunManager" selected="Cloud Code: Cloud Run.Cloud Run: Deploy">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cloud Run: Deploy" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudDeployRunConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" gcpProject="{&quot;googleUsername&quot;:&quot;flora01@uw.edu&quot;,&quot;projectId&quot;:&quot;rapid-airship-303704&quot;,&quot;projectName&quot;:&quot;My First Project&quot;,&quot;projectNumber&quot;:114953637436}" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="buildpacksEnv">
+        <map />
+      </option>
+      <option name="cloudSqlConnections">
+        <list />
+      </option>
+      <option name="concurrency" value="80" />
+      <option name="cpuAllocated" value="1" />
+      <option name="customCpuAllocated" value="" />
+      <option name="dockerBuildArgs">
+        <map />
+      </option>
+      <option name="dockerTarget" value="" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="gkeClusterLocation" />
+      <option name="gkeClusterName" />
+      <option name="gkeClusterNamespace" value="default" />
+      <option name="gkeConnectivity" value="EXTERNAL" />
+      <option name="imagePath" value="gcr.io/rapid-airship-303704/tcss591-lampstack" />
+      <option name="loadingAvailableBuilders" value="false" />
+      <option name="managedAuthentication" value="ALLOW_UNAUTHENTICATED" />
+      <option name="managedRegion" value="us-central1" />
+      <option name="maxInstances" value="1000" />
+      <option name="memoryAllocated" value="MIB_256" />
+      <option name="minInstances" value="" />
+      <option name="platform" value="FULLY_MANAGED" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="serviceAccount" value="" />
+      <option name="serviceName" value="tcss591-lampstack" />
+      <option name="timeout" value="300" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Cloud Run: Run Locally" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudRunDevelopConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" imageBuilder="{&quot;name&quot;:&quot;Docker&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;Dockerfile&quot;}}">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="buildpacksEnv" />
+      <option name="cloudSqlConnections">
+        <list />
+      </option>
+      <option name="cpuAllocated" value="NO_LIMIT" />
+      <option name="dockerBuildArgs" />
+      <option name="dockerTarget" value="" />
+      <option name="environmentVariables" />
+      <option name="loadingAvailableBuilders" value="false" />
+      <option name="mappings">
+        <list />
+      </option>
+      <option name="memoryAllocated" value="MIB_256" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="serviceAccount" value="" />
+      <option name="serviceName" value="tcss591-lampstack" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-image">
+      <deployment type="docker-image">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="buildOnly" value="true" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cloud Code: Cloud Run.Cloud Run: Deploy" />
+      <item itemvalue="Cloud Code: Cloud Run.Cloud Run: Run Locally" />
+      <item itemvalue="Docker.Dockerfile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2b3fc5e-f038-4c16-93a4-ae1fc90a51ab" name="Default Changelist" comment="" />
+      <created>1612338687162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612338687162</updated>
+      <workItem from="1612338688377" duration="8000" />
+      <workItem from="1612338699059" duration="1585000" />
+      <workItem from="1612340311524" duration="3062000" />
+      <workItem from="1612344417952" duration="7518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
